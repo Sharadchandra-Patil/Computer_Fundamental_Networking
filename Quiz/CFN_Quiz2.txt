@@ -1,0 +1,86 @@
+1. 
+Which of the following protocol is used to associate a logical address with a physical address?
+Answers
+1. Reverse Address Resolution Protocol
+2. Internet Control Message Protocol
+3. Address Resolution Protocol           //<---Ans
+4. Internet Group Message Protocol
+
+
+2. 
+A device operating at network layer is called
+Answers
+1. Router               //<---Ans
+2. Equalizer
+3. Bridge
+4. Repeater
+
+
+3. 
+Transmission mode used at Phyical layer can be ?
+Answers
+1. Simplex
+2. Half Duplex
+3. Full Duplex
+4. All of the Above          //<---Ans
+
+
+4. 
+Routers operate on which layer of OSI model?
+Answers
+1. Network Layer            //<---Ans
+2. Physical Layer
+3. Session Layer
+4. Transport Layer
+
+
+5. 
+Service-point addressing is responsibility of which layer in OSI model?
+
+Answers
+1. Data Link Layer
+2. Application Layer
+3. Transport Layer   //<---Ans
+4. Physical Layer
+
+
+6. 
+TCP and UDP protocols are operated on which layer of TCP/IP?
+Answers
+1. Transport Layer              //<---Ans
+2. Network Layer
+3. Data Link Layer
+4. Application Layer
+
+7. 
+Which of the following access method requires that each station first listen  to the medium before sending?
+Answers
+1. MA
+2. CSMA                    //<---Ans
+3. FDMA
+4. CDMA
+
+
+8. 
+Logical addressing is done at which of the following Layer in OSI model?
+Answers
+1. Network layer               //<---Ans
+2. Data Link Layer
+3. Transport Layer
+4. Physical Layer
+
+9. 
+Which of the following protocols is used in E-mail
+Answers
+1. IMAP
+2. POP3
+3. SMTP
+4. All of the above               //<---Ans
+
+10. 
+Which class provides the largest number of hosts per network?
+Answers
+1. Class A                    //<---Ans
+2. Class B
+3. Class C
+4. Class D

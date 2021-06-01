@@ -4,7 +4,7 @@ Answers
 1. Bus Topology
 2. Mesh Toplology
 3. Ring Topology
-4. Both A and C        //<--Ans    ?check
+4. Both b and C        //<--Ans    
 
 
 2. 
